@@ -122,7 +122,7 @@ const QuizApp = () => {
 
   return (
     <div className="quiz-container">
-      <h1>Quiz Battle</h1>
+      <h1>JP'S Quiz Battle</h1>
       <div className="options">
         <div>
           <label htmlFor="difficulty">Select Difficulty:</label>
